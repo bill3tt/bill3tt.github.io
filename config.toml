@@ -13,6 +13,9 @@ paginate=100 # articles per page
 # Number of characters to show in summary.
 summaryLength = 20
 
+# Your Google analytics code.
+googleAnalytics = "G-XRDKBSCP62"
+
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
