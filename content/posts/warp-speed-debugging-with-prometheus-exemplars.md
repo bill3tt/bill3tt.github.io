@@ -1,5 +1,5 @@
 ---
-title: "Warp Speed Debugging With Prometheus Exemplars"
+title: "Warp Speed Debugging with Prometheus Exemplars"
 date: 2022-05-17
 draft: false
 ---
