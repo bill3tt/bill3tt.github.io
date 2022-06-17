@@ -19,7 +19,6 @@ googleAnalytics = "G-XRDKBSCP62"
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Subtitle goes here"
 
 # Social Tags
 
