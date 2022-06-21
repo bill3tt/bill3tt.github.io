@@ -13,12 +13,14 @@ paginate=100 # articles per page
 # Number of characters to show in summary.
 summaryLength = 20
 
-# Your Google analytics code.
-googleAnalytics = "G-XRDKBSCP62"
-
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=true
+
+	# Custom list of Javascript files to load. Just like custom CSS you can place js files under
+    # `static/js` folder and specify path here as `js/script-name.js`. You can also specify full url,
+    # for example you may want to include external JS library.
+    customJS = ["https://www.googletagmanager.com/gtag/js?id=G-XRDKBSCP62", "js/google-analytics.js",]
 
 # Social Tags
 
