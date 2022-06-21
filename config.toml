@@ -34,6 +34,11 @@ name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/billett_"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/ian-billett-5501a35a/"
+
 # Main menu Items
 
 [[menu.main]]
