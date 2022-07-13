@@ -1,6 +1,7 @@
 ---
 title: "TSDB WTF"
 date: 2020-07-14
+tags: [talk, prometheus, tsdb, promcon]
 ---
 
 The TSDB is the beating heart of any instance of Prometheus; it is the storage engine that lets users efficiently store and query billions of data points. However, getting the best out of the TSDB is non-trivial and easy to get wrong.

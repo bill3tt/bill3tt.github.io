@@ -1,6 +1,7 @@
 ---
 title: "PromQL for Mere Mortals"
 date: 2019-11-09
+tags: [talk, prometheus, promql, promcon]
 ---
 
 PromQL can feel intimidating at first for those new to the Prometheus ecosystem, but it is an essential skill to learn when starting out monitoring and alerting in the Prometheus ecosystem. 

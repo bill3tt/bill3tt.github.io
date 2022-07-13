@@ -1,7 +1,7 @@
 ---
 title: "Warp Speed Debugging with Prometheus Exemplars"
 date: 2022-05-17
-draft: false
+tags: [talk, prometheus, exemplars, kubecon]
 ---
 
 Effectively debugging distributed systems almost always requires inspecting more than just your Prometheus metrics data - logs, traces and profiles all provide essential information that help you quickly and efficiently pinpoint the root cause of your bugs. 
