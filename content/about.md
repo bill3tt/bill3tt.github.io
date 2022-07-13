@@ -9,9 +9,7 @@ I currently lead the team building and running [Red Hat](https://www.redhat.com/
 
 I'm passionate about building systems that are stable, secure, performant and ultimately [boring](https://boringtechnology.club/).
 
-I pride myself being able to find simple ways of communicating complex ideas - check out my [conference talks]({{< ref "/tags/talk" >}})
-
-
+I pride myself being able to find simple ways of communicating complex ideas - check out my [conference talks]({{< ref "/tags/talk" >}}).
 
 Feel free to reach out and say hello either on the socials linked below or via email at my first name @ my last name dot me.
 
