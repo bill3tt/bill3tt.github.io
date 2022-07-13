@@ -60,3 +60,7 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+# Enable tags.
+[taxonomies]
+   tag = "tags"
